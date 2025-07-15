@@ -7,6 +7,13 @@ Adane Tarekegn, Fulvio Ricceri, Giuseppe Costa, Elisa Ferracin, Mario Giacobini
 *JMIR Medical Informatics*, 2020. [DOI: 10.2196/16678](https://doi.org/10.2196/16678)
 
 ---
+## ML Workflow Diagram
+
+This figure illustrates the full modeling pipeline from data preprocessing to final prediction used in the study:
+
+![Frailty ML Workflow](figures/frailty-ml-workflow.png)
+
+---
 ## Requirements
 
 Install with pip:
