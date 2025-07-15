@@ -3,8 +3,7 @@
 This repository contains Python code and Jupyter notebooks to replicate and extend the experiments from the JMIR 2020 paper:
 
 **"Predictive Modeling for Frailty Conditions in Elderly People: Machine Learning Approaches"**  
-Adane Tarekegn et al. [JMIR Med Inform, 2020][[DOI:10.2196/16678](https://doi.org/10.2196/16678)]
-
+Adane Tarekegn et al. [JMIR Med Inform, 2020]
 ---
 
 ## 📁 Project Structure
