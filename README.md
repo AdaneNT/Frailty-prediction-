@@ -13,7 +13,7 @@ Install with pip:
 
 ```bash
 pip install scikit-learn pandas numpy matplotlib seaborn jupyter
-
+```
 
 
 ## What’s Included
