@@ -23,10 +23,9 @@ pip install scikit-learn pandas numpy matplotlib seaborn jupyter
 ```
 ## Example Results: Mortality Prediction Accuracy
 
-This figure (Figure 3 from the paper) shows the training and testing accuracy of four classifiers — SVM, RF, NN, and DT — as the number of selected features increases. Random Forest and Decision Tree overfit the training data and fail to generalize, while  **SVM** and **ANN (NN)** exhibit **stable generalization** across feature subsets,indicating better robustness.
-
-- **RF** and **DT** show strong overfitting behavior: very high training accuracy, but significant drop in test accuracy as more features are added.
-- **SVM** and **ANN (NN)** exhibit **stable generalization** across feature subsets, maintaining similar accuracy between training and test sets, indicating better robustness.
+This figure (Figure 3 from the paper) shows the training and testing accuracy of four classifiers — SVM, RF, NN, and DT — as the number of selected features increases. 
+- **RF** and **DT** show overfitting behavior: very high training accuracy, but significant drop in test accuracy as more features are added.
+- **SVM** and **ANN (NN)** exhibit **stable generalization** across feature subsets, indicating better robustness.
 
 
 ![Mortality Accuracy](figures/mortality-accuracy-train-vs-test.png)
